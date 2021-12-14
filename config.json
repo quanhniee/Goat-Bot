@@ -1,10 +1,10 @@
 {
   "adminOnly": false,
-  "adminBot": [
+  "adminBot": [100023881514667
     
   ],
-  "nickNameBot": "",
-  "prefix": "#",
+  "nickNameBot": "LH BOT",
+  "prefix": ".",
   "database": {
     "type": "local",
     "uriMongodb": "",
